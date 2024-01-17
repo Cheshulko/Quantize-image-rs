@@ -2,6 +2,7 @@
 
 ## Overview
 Quantize an image using [k-means](https://en.wikipedia.org/wiki/K-means_clustering) clustering
+
 Inspired by Tsoding
 
 ## Usage
